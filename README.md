@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
 
-- 📫 **jul_ed@tutamail.com**
+- 📫 **julio.castillo.ita@gmail.com**
 
 
 
