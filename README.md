@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hola 👋, Soy Julio Castillo</h1>
-<h3 align="center">Estudiante de Cibertec, Lima🌟.</h3>
+<h3 align="center">Egresado de Cibertec, Lima🌟.</h3>
 
 <br>
 
