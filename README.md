@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Apasionado por construir aplicaciones web robustas, escalables y orientadas a negocio, con experiencia en backend, frontend e ինտեգración de bases de datos.
+  Apasionado por construir aplicaciones web robustas, escalables y orientadas a negocio, con experiencia en backend, frontend e integración de bases de datos.
 </p>
 
 ---
