@@ -45,11 +45,4 @@
 - 🔹 **Evaluaciones técnicas y CRUD académicos:** ejercicios de práctica y validación de conocimientos.
 - 🔹 **Enfoque principal:** desarrollo de soluciones funcionales, mantenibles y bien estructuradas.
 
-### GitHub en números
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcast2023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcast2023&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
