@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/julio-castillo-ita" target="_blank">
+  <a href="https://www.linkedin.com/in/julio-castillo-ita/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:julio.castillo.ita@gmail.com">
@@ -15,15 +15,13 @@
 </p>
 
 <p align="center">
-  Apasionado por construir aplicaciones web robustas, escalables y orientadas a negocio, con experiencia en backend, frontend e integración de bases de datos.
+  Desarrollador orientado a construir aplicaciones web robustas, escalables y enfocadas en negocio, con experiencia en backend, frontend e integración de bases de datos.
 </p>
-
----
 
 ### Perfil profesional
 - 🎓 Egresado de Cibertec, Lima.
 - 💻 Enfocado en desarrollo backend y full stack.
-- 🧩 Experiencia en construcción de APIs, CRUDs, autenticación e integración con bases de datos.
+- 🧩 Experiencia en APIs, CRUDs, autenticación e integración con bases de datos.
 - 🌱 Interesado en seguir creciendo en arquitectura, buenas prácticas y despliegue en la nube.
 
 ### Tecnologías principales
@@ -41,8 +39,14 @@
 </p>
 
 ### Proyectos destacados
-- 🔹 **4 proyectos full stack completos:** mis trabajos más sólidos, con frontend, backend y base de datos.
-- 🔹 **Evaluaciones técnicas y CRUD académicos:** ejercicios de práctica y validación de conocimientos.
-- 🔹 **Enfoque principal:** desarrollo de soluciones funcionales, mantenibles y bien estructuradas.
+- 🔹 **[VotaBienPe — Plataforma Electoral con IA](https://github.com/jcast2023/eleccionesperubackend)**  
+  Backend y frontend de una plataforma electoral con componentes de inteligencia artificial.
 
+- 🔹 **[TechShop — E-commerce Full Stack](https://github.com/jcast2023/e-commerce) | [Frontend Angular](https://github.com/jcast2023/techshop-frontend)**  
+  Aplicación e-commerce con Spring Boot en backend y Angular en frontend.
 
+- 🔹 **[Ecosistema Bancario Microservicios Reactivos](https://github.com/jcast2023/proyecto-banco)**  
+  Proyecto orientado a arquitectura de microservicios y programación reactiva.
+
+- 🔹 **[School Finder — Geolocalización](https://github.com/jcast2023/school-finder)**  
+  Aplicación enfocada en búsqueda y ubicación de instituciones mediante geolocalización.
