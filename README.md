@@ -1,16 +1,12 @@
 <h1 align="center">Hola 👋, soy Julio Castillo</h1>
-<h3 align="center">Desarrollador backend y full stack de Lima, Perú.</h3>
+<h3 align="center">Desarrollador Backend y Full Stack | Lima, Perú</h3>
 
 <p align="right">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="programador" width="260" />
-</p>
-
-<p>
-  Me especializo en desarrollo backend y full stack, con experiencia en Java, Spring Boot, .NET, MySQL, SQL, Angular, React, JavaScript, HTML y CSS. Estoy enfocado en construir aplicaciones web limpias, escalables y bien estructuradas.
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="programador" width="240" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/" target="_blank">
+  <a href="www.linkedin.com/in/julio-castillo-ita" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:julio.castillo.ita@gmail.com">
@@ -18,13 +14,17 @@
   </a>
 </p>
 
+<p align="center">
+  Apasionado por construir aplicaciones web robustas, escalables y orientadas a negocio, con experiencia en backend, frontend e ինտեգración de bases de datos.
+</p>
+
 ---
 
-### Sobre mí
+### Perfil profesional
 - 🎓 Egresado de Cibertec, Lima.
 - 💻 Enfocado en desarrollo backend y full stack.
-- 🌱 Me interesa seguir creciendo en arquitectura, buenas prácticas y despliegue en la nube.
-- 🚀 Me gusta crear soluciones web funcionales, mantenibles y orientadas a negocio.
+- 🧩 Experiencia en construcción de APIs, CRUDs, autenticación e integración con bases de datos.
+- 🌱 Interesado en seguir creciendo en arquitectura, buenas prácticas y despliegue en la nube.
 
 ### Tecnologías principales
 <p align="left">
@@ -41,13 +41,13 @@
 </p>
 
 ### Proyectos destacados
-- 🔹 **Proyectos full stack completos:** aplicaciones con frontend, backend y base de datos.
-- 🔹 **Proyectos académicos y CRUD:** evaluaciones técnicas y ejercicios de práctica.
-- 🔹 **Repositorio principal:** mis proyectos están organizados en mi GitHub para revisión rápida.
+- 🔹 **4 proyectos full stack completos:** mis trabajos más sólidos, con frontend, backend y base de datos.
+- 🔹 **Evaluaciones técnicas y CRUD académicos:** ejercicios de práctica y validación de conocimientos.
+- 🔹 **Enfoque principal:** desarrollo de soluciones funcionales, mantenibles y bien estructuradas.
 
-### Estadísticas de GitHub
+### GitHub en números
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcast2023&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jcast2023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
